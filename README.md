@@ -1,8 +1,10 @@
-# Sci Chicken
+# 180雷达使用教程
 
-A PUBG pcap playback system that does not hog CPU/GPU, works with version 3.7.28.9.
+用SSTAP连接后上游戏即可
 
-## Sniff
+QQ1803128416
+
+## 一些小知识
 
 You need an extra computer to be the man in the middle, to ensure your safety. I personally use MacOS, but Linux or windows should work as well.
 
